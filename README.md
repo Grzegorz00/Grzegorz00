@@ -1,6 +1,6 @@
 <!-- Welcome Section -->
 <div align="center" style="background: linear-gradient(90deg, #fbd38a, #d8aa50); color: #fff; padding: 1.5rem; border-radius: 8px; margin-bottom: 1rem;">
-    <p style="font-size: 2.5rem;">🎉 Welcome to My Portfolio 🎉</p>
+    <h1 style="font-size: 2.5rem;">🎉 Welcome to My Portfolio 🎉</h1>
 </div>
 
 <!-- About Me Section -->

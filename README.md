@@ -7,7 +7,7 @@
 <div style="max-width: 900px; margin: auto; padding: 2rem; background: #fff; border-radius: 8px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
     <h2 style="color: #333;">Hi there 👋</h2>
     <p style="font-size: 1.1rem; color: #555;">I'm a Java Fullstack Developer. I graduated from the <strong>Polish-Japanese Academy of Information Technology</strong> with both a Bachelor's and a Master's degree. My education and passion for technology have driven me to work on some fascinating projects, particularly in the fields of Blockchain Technology and Artificial Intelligence.</p>
-    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd0MXphNmIxc2p2bzFjNHlwbGp5dm9yZ2RvajVxMHRoeGkycDNvMyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/NHA2Adla3bub73guuE/giphy.webp" alt="Welcome GIF" style="max-width: 50%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
+    <img align="center" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGd0MXphNmIxc2p2bzFjNHlwbGp5dm9yZ2RvajVxMHRoeGkycDNvMyZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/NHA2Adla3bub73guuE/giphy.webp" alt="Welcome GIF" style="max-width: 50%; height: auto; border-radius: 8px; display: block; margin: 0 auto;">
 </div>
 
 <!-- Education Section -->
